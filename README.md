@@ -7,8 +7,10 @@ Welcome to my GitHub lair where the web3 security magic happens! I'm Misbahu.eth
 
 ## In this repo, you'll find:
 
-Audit Reports: Deep dives into smart contracts, where I reveal the secrets and the sins of the code. Think of it as a treasure map to secure your DeFi journey.
-Proofs of Concept (POCs): Not just theories but live, breathing examples of exploits. These are the battle scars from the wars in the blockchain trenches, showing you exactly how hacks could happen and how to prevent them.
+### Audit Reports: 
+Deep dives into smart contracts, where I reveal the secrets and the sins of the code. Think of it as a treasure map to secure your DeFi journey.
+### Proofs of Concept (POCs): 
+Not just theories but live, breathing examples of exploits. These are the battle scars from the wars in the blockchain trenches, showing you exactly how hacks could happen and how to prevent them.
 
 Whether you're a developer looking to fortify your contracts or a fellow researcher eager to learn from real-world scenarios, this is your go-to place. 
 
@@ -24,4 +26,5 @@ Remember, in the world of crypto, security isn't just a feature; it's the founda
 
 Misbahu.eth | @Designer_Misbah - misbahu.eth on X
 
-P.S. If you spot something intriguing or have questions, hit me up! Let's make the blockchain a safer place, one commit at a time.
+## P.S. 
+If you spot something intriguing or have questions, hit me up! Let's make the blockchain a safer place, one commit at a time.
