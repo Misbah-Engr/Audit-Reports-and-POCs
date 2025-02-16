@@ -1,9 +1,9 @@
 # Audit-Reports-and-POCs
-My GitHub lair where the web3 security magic happens!
+Here is where the security magic happens!
 
 Hey, Crypto Guys! 🚀
 
-Welcome to my GitHub lair where the web3 security magic happens! I'm Misbahu.eth, your friendly neighborhood web3 security researcher, here to dissect, analyze, and expose the vulnerabilities that lurk in the decentralized shadows.
+Welcome to my GitHub reports repo where I showcase my powers! I'm Misbahu.eth, a web3 security researcher, here to dissect, analyze, and expose the vulnerabilities that hide deep in the crypto codes.
 
 ## In this repo, you'll find:
 
