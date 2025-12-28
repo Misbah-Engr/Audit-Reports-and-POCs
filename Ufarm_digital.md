@@ -7,6 +7,8 @@
 ### Severity: Critical
 Link to the Repository: https://github.com/UFarmDigital/UFarm-EVM-Contracts/blob/master/contracts/main/contracts/pool/UFarmPool.sol
 
+### Platform: Remedy (hunt.r.xyz)
+
 ## Summary
 A critical vulnerability exists in the UFarmPool contract where share calculation logic fails to normalize token decimals. When users deposit high-decimal tokens (e.g., DAI, 18 decimals) into low-decimal pools (e.g., USDT, 6 decimals), the protocol erroneously treats raw amounts as equivalent value. This mints inflated shares (e.g., 1 trillion shares for a $1 deposit), allowing attackers to drain the pool's assets.
 
