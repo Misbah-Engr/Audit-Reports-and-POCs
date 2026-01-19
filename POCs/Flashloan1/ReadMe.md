@@ -1,1 +1,0 @@
-this is a dangerous collection of a code that hypothetically will attack a live contract on Ethereum Mainnet. The name of the coin is masked to prevent malicious action. This is for educative purpose only.
